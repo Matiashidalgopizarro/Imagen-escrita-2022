@@ -1,2 +1,2 @@
-# Imagen-escrita-2022
+# IE2022
 Web del curso IE2022
