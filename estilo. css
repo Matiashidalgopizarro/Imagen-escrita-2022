@@ -2,7 +2,7 @@
 @import url('https://matiashidalgopizarro.github.io/Imagen-escrita-2022´);
 
 body{
-    font-family: "";
+    font-family: "ekyll-theme-cayman";
     width: 100%;
     margin: 0 auto;
     max-width: 40em;
