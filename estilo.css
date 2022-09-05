@@ -1,0 +1,26 @@
+@import url('https://matiashidalgopizarro.github.io/Imagen-escrita-2022/');
+
+cuerpo{
+    font-family: "ekyll-theme-cayman";
+    ancho: 100%;
+    margen: 0 auto;
+    ancho máximo: 40em;
+    color de fondo: #242424;
+    color:  #FFB000;
+}
+
+h2{
+    peso de la fuente: 100;
+    margen: 1em 0;
+    tamaño de fuente: 3em;
+}
+
+img{
+    ancho: 100%;
+    modo mezcla-mezcla: aligerar;
+}
+
+un{
+    color: blanco;
+    font-weight: más audaz;
+}
